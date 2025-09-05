@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">QK3 Logo</title>
+  <desc id="desc">Rounded square badge with the letters QK3 in bold, centered.</desc>
+  <!-- Text -->
+  <g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+     font-weight="800" text-anchor="middle" fill="#000000">
+    <!-- Subtle text outline for readability -->
+    <text x="128" y="140" font-size="112" paint-order="stroke" stroke="#000000" stroke-opacity="0.25" stroke-width="4" letter-spacing="2">
+      QK3
+    </text>
+  </g>
+</svg>
